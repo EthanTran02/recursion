@@ -19,7 +19,4 @@ const fibsRec = (num) => {
   return pre;
 };
 
-test = [...[1], 4];
-console.log(test);
-
-// console.log(fibsRec(4));
+console.log(fibsRec(8));
